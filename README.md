@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siddharth Seth
-- 👀 I’m interested in blockchain and web devolpment 
 - 🌱 Project 1) AI analyst(https://ai-finance-analyst-by-sidseth.vercel.app/)
 - 🌱 Project 2)Personal Finance Tracker(https://p-i-t.netlify.app/)
 - 🌱 Project 3)Dashboard(https://kapstanassingment.netlify.app/)
