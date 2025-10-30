@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @sid-seth
+- 👋 Hi, I’m Siddharth Seth
 - 👀 I’m interested in blockchain and web devolpment 
-- 🌱 I’m currently learning cpp and Javascript
-- 💞️ I’m looking to collaborate on web development  projects 
+- 🌱 Project 1) AI analyst(https://ai-finance-analyst-by-sidseth.vercel.app/)
+- 🌱 Project 2)Personal Finance Tracker(https://p-i-t.netlify.app/)
+- 🌱 Project 3)Dashboard(https://kapstanassingment.netlify.app/)
+- 🌱 Project 4)Chat Application cmd based(https://github.com/sid-seth/chat-App/)
+- 💞️ I’m looking to FullStack Devlopment roles.
 - 📫 How to reach me sseth688@gmail.com 
 
 <!---
